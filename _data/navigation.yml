@@ -9,7 +9,7 @@
   include: 'N'
 
 - title: Blog setup
-  url: https://karttur.github.io/setup-theme/
+  url: ../../../setup-theme-blog/
   include: 'Y'
   excerpt: 'Setting up this blog using Jekyll and Github'
   tags:
@@ -20,7 +20,7 @@
     - Atom
 
 - title: IDE setup
-  url: https://karttur.github.io/setup-ide/
+  url: ../../../setup-ide/
   include: 'Y'
   excerpt: 'Installing Eclipse for Python (PyDev) using Anaconda as the Python interpreter, installing PostgreSQL, and then connecting these components to an operational framework.'
   tags:
