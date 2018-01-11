@@ -52,7 +52,7 @@ karttur/
 |        └──                          # empty
 |    └── ide-setup/     
 |        ├── Install Anaconda         # Install Anaconda Python package on macOS
-|        ├── Setup Eclipse \for PyDev  # Install Eclipse and set up with Anaconda
+|        ├── Setup Eclipse with PyDev # Install Eclipse and set up with Anaconda
 |        ├── Install PostgreSQL       # Install PostgreSQL and PostGIG on macOS
 |        ├── Connect PostgreSQL       # psycopg2 connect PostgreSQL and Python  
 |        ├── PostgreSQL xml setup     # Setup db schema & tables using xml
@@ -74,7 +74,7 @@ Url links:
 
 ### setup-github
 
-Also the repository [Setup-github](../../../setup-github/) contains a single web-page created using Jekyll, but created without any template Theme. The page is an introductory manual on how to publish a web site with blogs on GitHub.com using <span clas='app'>GitHub desktop.app</span>. The GitHub repository contains the full code under the branch 'gh-pages'. It might be useful for learning a bit about markdown and publishing Jekyll generated web-pages on GitHub.
+Also the repository [Setup-github](../../../setup-github/) contains a single web-page created using Jekyll, but without any template Theme. The page is an introductory manual on how to publish a web site with blogs on GitHub.com using <span class='app'>GitHub desktop.app</span>. The GitHub repository contains the full code under the branch 'gh-pages'. It might be useful for learning a bit about markdown and publishing Jekyll generated web-pages on GitHub.
 
 Url links:
 * [front web-page](../../../setup-github/)
@@ -82,7 +82,7 @@ Url links:
 
 ### setup-theme-blog
 
-After having tried out creating web-pages using Jekyll, learnt a bit about markdown and editing the markdown coding system in the text editor Atom, I selected an Open Source Jekyll Theme (So Simple by Michael Rose) as the Template for continuing publishing my articles and blogs. The repository [setup-theme-blog](../../../setup-theme-blog/) contains my step-by-step manual on how I setup the So Simple Theme. The blog contains additional tweaking I have done to the So Simple Theme to make it fit my needs.
+After having tried out creating web-pages using Jekyll, learnt a bit about markdown and editing the markdown coding system in the text editor Atom, I selected an Open Source Jekyll Theme (So Simple by Michael Rose) as the template for continuing publishing my articles and blogs. The repository [setup-theme-blog](../../../setup-theme-blog/) contains my step-by-step manual on how I setup the So Simple Theme. The blog contains additional tweaking I have done to the So Simple Theme to make it fit my needs.
 
 Url links:
 * [front web-page](../../../setup-theme-blog/)
@@ -103,4 +103,4 @@ Direct links to the installation and setup instructions of different components 
 * [Eclipse](../../../setup-ide/setup-ide/install-eclipse/) (Install IDE for Python)
 * [PostgreSQL](../../../setup-ide/setup-ide/install-postgres/) (Install PostgreSQL with PostGIS database)
 * [psycopg2](../../../setup-ide/setup-ide/connect-with-psycopg2/) (connect Python and Postgres using psycopg2)
-* [db architecture](../../../setup-ide/setup-ide/setup-db/) (create db architecture (schemas and tables) using xml)
+* [db architecture](../../../setup-ide/setup-ide/setup-db-karttur/) (create db architecture [schemas and tables] using xml)
