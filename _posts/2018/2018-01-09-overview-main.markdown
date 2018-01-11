@@ -98,7 +98,7 @@ Url links:
 
 Direct links to the installation and setup instructions of different components (primarily for macOS):
 
-* [GIS](../../../setup-ide/setup-ide/install-GIS/) (Install GDAL, QGIS and GRASS)
+* [GIS](../../../setup-ide/setup-ide/install-gis/) (Install GDAL, QGIS and GRASS)
 * [Anaconda](../../../setup-ide/setup-ide/install-anaconda/) (Install Ananconda Python Interpreter)
 * [Eclipse](../../../setup-ide/setup-ide/install-eclipse/) (Install IDE for Python)
 * [PostgreSQL](../../../setup-ide/setup-ide/install-postgres/) (Install PostgreSQL with PostGIS database)
