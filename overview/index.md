@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Site overview
-excerpt: "Overview of the karttur site content."
+title: Overview article
+excerpt: "Overview article on the karttur site content."
 image:
   feature: tropsoilwetnessmap.png
   credit: Tropical soil moisture (Thomas Gumbricht, Karttur AB)
