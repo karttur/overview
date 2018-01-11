@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Karttur overview
+title: Karttur GitHub repository overview
 modified: '2018-01-09 T18:17:25.000Z'
 categories: overview
 excerpt: "Overview of Karttur´s GitHub site for blogs, articles and manuals"
@@ -66,11 +66,11 @@ The overview repository only contains web-pages.
 
 ### setup-blog
 
-The repository [Setup-blog](../../../setup-blog/) contains a manual on how that very page was created by using Jekyll and the default Theme minima. The page also introduces using the text editor Atom for editing markdown files. The GitHub repository contains the full code under the branch 'gh-pages'. It might be useful to follow the manual to set up your very first Jekyll blog.
+The repository [Setup-blog](../../../setup-blog/) contains a manual on how that very page was created by using Jekyll and the default Theme minima. The page also introduces using the text editor <span class='app'>Atom</span> for editing markdown files. The GitHub repository contains the full code under the branch 'gh-pages'. It might be useful to follow the manual to set up your very first Jekyll blog.
 
 Url links:
 * [front web page](../../../setup-blog/)
-* [GitHub repository](https://github.com/karttur/setup-blog/tree/gh-pages) (opens in new window)
+* [GitHub repository](https://github.com/karttur/setup-blog/tree/gh-pages)
 
 ### setup-github
 
@@ -78,7 +78,7 @@ Also the repository [Setup-github](../../../setup-github/) contains a single web
 
 Url links:
 * [front web-page](../../../setup-github/)
-* [GitHub repository](https://github.com/karttur/setup-github/tree/gh-pages) (opens in new window)
+* [GitHub repository](https://github.com/karttur/setup-github/tree/gh-pages)
 
 ### setup-theme-blog
 
@@ -86,7 +86,7 @@ After having tried out creating web-pages using Jekyll, learnt a bit about markd
 
 Url links:
 * [front web-page](../../../setup-theme-blog/)
-* [GitHub repository](https://github.com/karttur/setup-theme-blog/tree/gh-pages) (opens in new window)
+* [GitHub repository](https://github.com/karttur/setup-theme-blog/tree/gh-pages)
 
 ### setup-ide
 
@@ -94,13 +94,13 @@ The core of the Karttur site is about map making and spatial data processing, es
 
 Url links:
 * [front web-page](../../../setup-ide/)
-* [GitHub](https://github.com/karttur/setup-ide/tree/gh-pages) (opens in new window)
+* [GitHub](https://github.com/karttur/setup-ide/tree/gh-pages)
 
 Direct links to the installation and setup instructions of different components (primarily for macOS):
 
-* [GIS](../../../setup-ide/ide-setup/install-GIS/) (Install GDAL, QGIS and GRASS)
-* [Anaconda](../../../setup-ide/ide-setup/install-anaconda/) (Install Ananconda Python Interpreter)
-* [Eclipse](../../../setup-ide/ide-setup/install-eclipse/) (Install IDE for Python)
-* [PostgreSQL](../../../setup-ide/ide-setup/install-postgres/) (Install PostgreSQL with PostGIS database)
-* [psycopg2](../../../setup-ide/ide-setup/connect-with-psycopg2/) (connect Python and Postgres using psycopg2)
-* [db architecture](../../../setup-ide/ide-setup/setup-db/) (create db architecture (schemas and tables) using xml)
+* [GIS](../../../setup-ide/setup-ide/install-GIS/) (Install GDAL, QGIS and GRASS)
+* [Anaconda](../../../setup-ide/setup-ide/install-anaconda/) (Install Ananconda Python Interpreter)
+* [Eclipse](../../../setup-ide/setup-ide/install-eclipse/) (Install IDE for Python)
+* [PostgreSQL](../../../setup-ide/setup-ide/install-postgres/) (Install PostgreSQL with PostGIS database)
+* [psycopg2](../../../setup-ide/setup-ide/connect-with-psycopg2/) (connect Python and Postgres using psycopg2)
+* [db architecture](../../../setup-ide/setup-ide/setup-db/) (create db architecture (schemas and tables) using xml)
