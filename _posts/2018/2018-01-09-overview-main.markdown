@@ -10,9 +10,7 @@ tags:
   - DB setup
   - GIS installations
   - macOS
-image:
-  feature: troprunoffmap.png
-  credit: Tropical runoff (Thomas Gumbricht, Karttur AB)
+image: avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A 
 date: '2018-01-09 11:27'
 comments: true
 share: true

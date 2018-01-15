@@ -3,10 +3,7 @@ layout: page
 title: About Karttur
 excerpt: "Karttur is a private research company in Stockholm, Sweden"
 modified: 2017-12-24T19:44:38.564948-04:00
-image:
-  feature: tropwetlandmap.png
-  credit: Global tropical wetlands (Thomas Gumbricht, Karttur AB)
-  #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+image: tropwetlandmap
 ---
 
 
