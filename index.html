@@ -10,11 +10,7 @@ search_omit: true
 <ul class="post-list">
 {% for link in site.data.navigation %}
   {% if link.include contains 'Y' %}
-    {% if link.include contains 'http' %}
-        {% assign domain = '' %}
-        {% else %}
-        {% assign domain = site.url %}
-        <li><article><a href="{{ domain }}{{ link.url }}">{{ link.title }} <span class="entry-date"></span>{% if link.excerpt %} <span class="excerpt">{{ link.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+        <li><article><a href="{{ link.url }}">{{ link.title }} <span class="entry-date"></span>{% if link.excerpt %} <span class="excerpt">{{ link.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
     {% endif %}
   {% endif %}
 {% endfor %}
