@@ -11,7 +11,6 @@ search_omit: true
 {% for link in site.data.navigation %}
   {% if link.include contains 'Y' %}
         <li><article><a href="{{ link.url }}">{{ link.title }} <span class="entry-date"></span>{% if link.excerpt %} <span class="excerpt">{{ link.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-    {% endif %}
   {% endif %}
 {% endfor %}
 </ul>
