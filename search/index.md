@@ -4,9 +4,7 @@ title: "Search"
 date:
 modified:
 excerpt:
-image:
-  feature: troplandformmap.jpg
-  credit: Tropical plains, mountains and lakes (Thomas Gumbricht, Karttur AB)
+image: troplandformmap
 search_omit: true
 sitemap: false
 ---
