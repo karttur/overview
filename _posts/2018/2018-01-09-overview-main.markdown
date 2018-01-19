@@ -3,6 +3,8 @@ layout: post
 title: Karttur GitHub repository overview
 modified: '2018-01-09 T18:17:25.000Z'
 categories: overview
+previousurl: null
+nexturl: null
 excerpt: "Overview of Karttur´s GitHub site for blogs, articles and manuals"
 tags:
   - Blog setup
