@@ -3,9 +3,8 @@ layout: page
 title: About Karttur
 excerpt: "Karttur is a private research company in Stockholm, Sweden"
 modified: 2017-12-24T19:44:38.564948-04:00
-image: ts-losl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+image: ts-mdsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
 ---
-
 
 Karttur is a private research company in Stockholm, Sweden. Karttur is really just the legal frontend of Thomas Gumbricht, backend, research efforts.
 
