@@ -368,7 +368,7 @@ ts-mdsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
     file: ts-mdsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
     author: Thomas Gumbricht
     caption: Theil-Sen estimated median change in rainfall 2001-2016, global tropics
-    credit: null
+    credit: TG
     source: null
 ols-rmse-twi-percent_MCD43A4_oka_2001-2016_A:
     file: ols-rmse-twi-percent_MCD43A4_oka_2001-2016_A.jpg
