@@ -4,7 +4,7 @@ title: "Search"
 date:
 modified:
 excerpt:
-image: troplandformmap
+image: ts-upsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A
 search_omit: true
 sitemap: false
 ---
