@@ -39,6 +39,16 @@
     - PostreSQL
     - psycopg2
 
+- title: Machine learning
+  url: https://karttur.github.io/machinelearning/
+  include: 'Y'
+  excerpt: 'Machine learning prediction models with Python'
+  tags:
+    - Eclipse
+    - Python
+    - machine learning
+    - regression models
+
 - title: Search
   url: /search/
   include: 'N'
