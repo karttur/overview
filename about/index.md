@@ -8,7 +8,11 @@ image: ts-mdsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A
 
 Karttur is a private research company in Stockholm, Sweden. Karttur is really just the legal frontend of Thomas Gumbricht, backend, research efforts.
 
-The Geo Imagine Developer blog is maintained by Thomas Gumbricht (Karttur AB) [karttur.com](https://karttur.com/)
+The Geo Imagine Developer blog is maintained by Thomas Gumbricht, Karttur AB.
+
+Link to [Thomas Gumbricht professional resumé](https://karttur.github.io/professional/).
+
+Link to [Karttur AB](https://karttur.com/).
 
 ## Karttur is all about:
 

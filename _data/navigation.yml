@@ -49,6 +49,13 @@
     - machine learning
     - regression models
 
+- title: Professional
+  url: https://karttur.github.io/professional/
+  include: 'Y'
+  excerpt: 'Thomas Gumbricht professional resumé'
+  tags:
+    - CV
+
 - title: Search
   url: /search/
   include: 'N'
