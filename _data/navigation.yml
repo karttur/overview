@@ -12,10 +12,6 @@
   url: /overview/
   include: 'N'
 
-- title: Blog
-  url: /blog/
-  include: 'N'
-
 - title: Setup blog
   url: https://karttur.github.io/setup-theme-blog/
   include: 'Y'
