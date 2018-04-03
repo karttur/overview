@@ -4,11 +4,7 @@
   url: /about/
   include: 'N'
 
-- title: Front
-  url: /
-  include: 'N'
-
-- title: Articles
+- title: Overview
   url: /overview/
   include: 'N'
 
@@ -23,7 +19,7 @@
     - GitHub
     - Atom
 
-- title: Setup IDE
+- title: Spatial IDE
   url: https://karttur.github.io/setup-ide/
   include: 'Y'
   excerpt: 'Installing Eclipse for Python (PyDev) using Anaconda as the Python interpreter, installing PostgreSQL, and connecting these components to an operational framework.'
