@@ -41,12 +41,23 @@
     - machine learning
     - regression models
 
+- title: GeoImagine
+  url: https://karttur.github.io/geoimagine/
+  include: 'Y'
+  excerpt: 'Karttur´s Geospatial processing framework'
+  tags:
+    - Spatial IDE
+    - Eclipse
+    - Python
+
 - title: Professional
   url: https://karttur.github.io/professional/
   include: 'Y'
   excerpt: 'Thomas Gumbricht professional resumé'
   tags:
     - CV
+    - teaching
+    - supervision
 
 - title: Search
   url: /search/
